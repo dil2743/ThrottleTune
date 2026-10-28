@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" alt="ThrottleTunes" width="160">
+  <img src="icon.png" alt="ThrottleTunes" width="160">
 </p>
 
 <h1 align="center">ThrottleTunes</h1>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" alt="Dashboard" width="220">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" alt="Settings" width="220">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" alt="Privacy" width="220">
+  <img src="1.jpg" alt="Dashboard" width="220">
+  <img src="2.jpg" alt="Settings" width="220">
+  <img src="3.jpg" alt="Privacy" width="220">
 </p>
 
 ---
