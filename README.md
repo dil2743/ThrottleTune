@@ -11,7 +11,9 @@
 
 <p align="center">
   <img src="1.jpg" alt="Dashboard" width="220">
+  &nbsp;
   <img src="2.jpg" alt="Settings" width="220">
+  &nbsp;
   <img src="3.jpg" alt="Privacy" width="220">
 </p>
 
@@ -36,7 +38,7 @@ ThrottleTunes does not request the `INTERNET` permission, so Android prevents it
 
 ## Download
 
-Signed APKs are published on the [Releases](../../releases/latest) page. An F-Droid listing is in progress.
+Signed APKs are published on the [Releases](https://github.com/dil2743/ThrottleTune/releases/latest) page. An F-Droid listing is in progress.
 
 Signing certificate SHA-256: `8b5949a4b91aed6677532a1d255e843d93be5a7a46d030916e72b58e99f16468`
 
